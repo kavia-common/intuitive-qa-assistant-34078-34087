@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.QAApp.Dark" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryColor</item>
+        <item name="colorAccent">@color/primaryColor</item>
+        <item name="android:statusBarColor">@color/secondaryColor</item>
+        <item name="android:navigationBarColor">@color/secondaryColor</item>
+        <item name="android:windowBackground">@color/backgroundDark</item>
+    </style>
+</resources>

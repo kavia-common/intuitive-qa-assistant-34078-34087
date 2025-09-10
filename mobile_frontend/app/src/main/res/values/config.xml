@@ -1,0 +1,4 @@
+<resources>
+    <!-- Set to your backend base URL, e.g., https://api.example.com -->
+    <string name="backend_base_url"></string>
+</resources>

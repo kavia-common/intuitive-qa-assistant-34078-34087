@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Q&amp;A Agent</string>
+    <string name="hint_question">Ask a question...</string>
+    <string name="cd_send">Send</string>
+    <string name="empty_hint">Your conversation will appear here.</string>
+    <string name="error_prefix">Error:</string>
+</resources>

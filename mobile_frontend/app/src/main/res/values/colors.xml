@@ -1,0 +1,14 @@
+<resources>
+    <!-- Theme palette -->
+    <color name="primaryColor">#1976D2</color>
+    <color name="secondaryColor">#424242</color>
+
+    <!-- Backgrounds -->
+    <color name="backgroundDark">#121212</color>
+    <color name="surfaceDark">#1E1E1E</color>
+    <color name="chipDark">#2A2A2A</color>
+
+    <!-- Text -->
+    <color name="onBackground">#FFFFFF</color>
+    <color name="onBackgroundSecondary">#B3FFFFFF</color>
+</resources>
