@@ -9,6 +9,8 @@ androidApplication {
             runtimeOnly("org.junit.platform:junit-platform-launcher")
             // JUnit 4 for guaranteed discovery of unit tests
             implementation("junit:junit:4.13.2")
+            // Mockito for unit tests that mock Android Context/Resources
+            implementation("org.mockito:mockito-core:5.12.0")
         }
     }
 
