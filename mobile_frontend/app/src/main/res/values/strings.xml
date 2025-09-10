@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Q&amp;A Assistant</string>
+    <string name="hint_ask">Ask a question...</string>
+    <string name="cd_send">Send</string>
+</resources>
